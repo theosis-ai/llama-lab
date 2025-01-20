@@ -1,3 +1,3 @@
 # Llama Lab
 
-Applications built with [Llama Stack](https://github.com/meta-llama/llama-stack)
+[Meta Llama](https://llama.com) applications built with [Llama Stack](https://github.com/meta-llama/llama-stack) and [LangChain](https://www.langchain.com).
