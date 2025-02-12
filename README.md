@@ -2,8 +2,11 @@
 
 Llama Lab is a [NextJS](https://nextjs.org) application that is purpose built for [Llama Stack](https://github.com/meta-llama/llama-stack) applications.
 
-> [!WARNING]
-> Llama Lab is in its current state is as a placeholder for future work.
+> [!IMPORTANT]
+> Llama Lab is in active development and is not yet ready for use
+
+> [!IMPORTANT]
+> Llama Lab will be built alongside [Copilot](https://github.com/features/copilot) and [Copilot Workspace](https://githubnext.com/projects/copilot-workspace), and is currently closed for contributions
 
 > [!NOTE]
-> see the official [playground](https://llama-stack.readthedocs.io/en/latest/playground/index.html) by Meta for Streamlit examples
+> Llama Lab is a portfolio project of [jxtngx](https://github.com/jxtngx)
