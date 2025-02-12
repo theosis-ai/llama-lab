@@ -17,7 +17,7 @@ export default function Nav() {
       </div>
       <div className="flex flex-1 justify-left gap-6 ml-4">
         <Link href="/">Home</Link>
-        <Link href="https://tunelab.theosis.ai" target="_blank">Llama Lab</Link>
+        <Link href="https://tunelab.theosis.ai" target="_blank">Tune Lab</Link>
         <Link href="https://theosis.ai" target="_blank">Theosis AI</Link>
         <SignedIn>
           <Link className="items-center flex gap-1" href="/lab">
