@@ -5,7 +5,7 @@ import {
   SidebarGroup,
 } from "@workspace/ui/components/sidebar";
 
-import { RecipeCombobox } from "@workspace/ui/components/sidebar/lab-combobox";
+import { LabCombobox } from "@workspace/ui/components/sidebar/lab-combobox";
 
 export function AppSidebar() {
   return (
